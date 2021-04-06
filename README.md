@@ -14,14 +14,13 @@
 const UserInformation = {
     askMeAbout: ["Front-end Developer"],
     technologies:{
-        fronEnd: ["ReactJS", "HTML", "CSS", "JavaScript"],
-        backEnd: ["Firebase"],
-        uiFramework: ["BulmaCSS", "Tailwind", "Bootstrap"],
-        desingUX_UI: ["AdobeXD"],
-        others: ["Suite Adobe", "Sony Vegas"]
+        fronEnd: ["ReactJS", "NextJS". "Gastby"],
+        backEnd: ["Strapi", "Firebase"],
+        dataBase: ["MongoDB"],
+        uiFramework: ["Semantic UI React", "Ant Desing", "Tailwind CSS"],
+        desingUI: ["AdobeXD"]
     },
-    architecture: ["ReactJS"],
-    interests: ["Music", "Travel", "English", "Spanish", "Portugues"]
+    interests: ["Software", "Desing", "Music", "Movies"]
 }
 ```
 
