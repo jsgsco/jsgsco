@@ -14,11 +14,11 @@
 const aboutMe = {
     askMeAbout: ["Front-end Developer"],
     technologies:{
-        fronEnd: ["ReactJS", "NextJS", "Gastby"],
+        frontEnd: ["ReactJS", "NextJS", "Gastby"],
         backEnd: ["Strapi", "Firebase"],
         dataBase: ["MongoDB"],
         uiFramework: ["Semantic UI React", "Ant Desing", "Tailwind CSS"],
-        desingUI: ["AdobeXD"]
+        uiDesing: ["AdobeXD"]
     }, interests: ["Software", "Desing", "Music", "Movies"]
 }
 ```
