@@ -11,16 +11,15 @@
 
 
 ```javascript
-const UserInformation = {
+const aboutMe = {
     askMeAbout: ["Front-end Developer"],
     technologies:{
-        fronEnd: ["ReactJS", "NextJS". "Gastby"],
+        fronEnd: ["ReactJS", "NextJS", "Gastby"],
         backEnd: ["Strapi", "Firebase"],
         dataBase: ["MongoDB"],
         uiFramework: ["Semantic UI React", "Ant Desing", "Tailwind CSS"],
         desingUI: ["AdobeXD"]
-    },
-    interests: ["Software", "Desing", "Music", "Movies"]
+    }, interests: ["Software", "Desing", "Music", "Movies"]
 }
 ```
 
