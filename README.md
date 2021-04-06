@@ -3,7 +3,7 @@
 🙏, I'm Jhon Steven Saavedra.
 ## Front-end Developer 👨‍💻
 
-[![](https://img.shields.io/badge/Facebook-Jhon-blue)](https://www.facebook.com/jsgsco/)
+[![](https://img.shields.io/badge/Facebook-Jhon-blue)](https://www.facebook.com/stevendeveloper/)
 [![](https://img.shields.io/badge/Gmail-foeblackg@gmail.com-red)](mailto:foeblackg@gmail.com)
 
 
